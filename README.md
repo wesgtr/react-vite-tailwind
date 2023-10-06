@@ -1,15 +1,15 @@
-## Como ejecutarlo en local
+## How to run it locally.
 
-Necesitarás tener instalado ``` node.js ``` a partir de la versión 16 y tener acceso a una terminal para seguir los siguientes pasos:
+You will need to have ```node.js``` installed from version 16 onwards and have access to a terminal to follow the next steps:
 
-1. Entramos a la carpeta que acabamos de clonar e instalamos las dependencias necesarias
+1. We enter the folder we just cloned and install the necessary dependencies.
 ```
 npm install
 #
 yarn
 ```
 >
-2. Ejecutamos nuestro proyecto en local
+2. We run our project locally.
 ```
 npm dev
 #
